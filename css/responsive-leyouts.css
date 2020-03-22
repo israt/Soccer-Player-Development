@@ -1,0 +1,297 @@
+/******************************************** RESPONSIVE STYLES*****************************************/
+/*------------------------------------------------------------------------------------------------------*
+/*******************************************  Author: Dynasty3 *****************************************/
+/**********************************  URL: http://www.dynasty3.co.uk ************************************/
+/*-----------------------------------------------------------------------------------------------------*/
+
+/* ---------- MAX 1500PX ---------- */
+@media only screen and (max-width:1500px) {
+	
+}
+
+/* ---------- MAX 1280PX ---------- */
+@media only screen and (max-width:1280px) {
+
+}
+
+/* ---------- MAX 1199PX ---------- */
+@media only screen and (max-width:1199px) {
+
+
+}
+
+
+/* ---------- MAX 1112PX ---------- */
+@media screen and (max-width:1112px) {
+
+}
+	
+/* ---------- MAX 1080PX ---------- */
+@media screen and (max-width:1080px) {
+
+}
+
+
+
+/* ---------- MAX 1024PX ---------- */
+@media screen and (max-width:1024px) {
+
+
+}
+
+/* ---------- MAX 991PX ---------- */
+@media only screen and (max-width:991px) {
+
+
+}
+
+
+
+/* ---------- MAX 800PX ---------- */
+@media only screen and (max-width:800px) {
+.container {
+    width:100%;
+}
+.logo {
+    width: 100%;
+}
+.logo img{
+    width: 100%;
+}
+.social-bookmarks {
+    float: left;
+    margin-top: 4px;
+    width: 100%;
+}
+.menu-icon span {
+    height: 45px;
+    background: #2C4B95 url(../images/nav-toggle.png) center no-repeat;
+}
+ul.dropdown {
+    border-top: 1px solid #D9E0E6;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #74797D;
+}
+.dnt3-menu ul.dropdown ul {
+    background: #2C4B95 !important;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: auto;
+}
+section.main-banner {
+     height: auto;
+}
+.banner{
+     height: auto;
+}
+.main-content {
+    float: left;
+}
+.top-50 {
+    margin-top: 15px;
+}
+.color {
+    font-size: 19px;
+    line-height: 26px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+.right-content-text {
+    margin-bottom: 10px;
+}
+.main-content {
+    margin-bottom:0px;
+}
+.bottom {
+    margin-top: 10px;
+}
+/*inner page responsive*/
+.about-coach h3 {
+    margin-top: 22px;
+}
+.img-right {
+    margin-left:0px; 
+    width: 100%;
+}
+.testi-image img {
+    margin-top: 5px;
+}
+.soccer-career {
+    margin-top:0px;
+}
+.img-contact img{
+	width:100%;
+	}
+/*image hover responsive*/
+.image-contain .textbox {
+   width: 37.5%;
+    height: 100%;
+    left: 250px;
+}
+.image-contain .textbox2 {
+    width: 37.5%;
+    height: 83%;
+    margin-top: 39px;
+    left: 250px;
+}
+
+
+}
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (min-width:767px) and (max-width:768px) {
+/*image hover responsive*/
+.image-contain .textbox {
+   width: 39%;
+    height: 100%;
+    left: 234px;
+}
+.image-contain .textbox2 {
+    width: 39%;
+    height: 83%;
+    margin-top: 39px;
+	left: 234px;
+}
+.logo {
+    width:50%;
+}
+.logo img{
+    width: 100%;
+}
+.social-bookmarks {
+    float: left;
+    margin-top:37px;
+    width:50%;
+}
+
+
+}
+
+
+
+/* ---------- MAX 767PX ---------- */
+@media only screen and (max-width:767px) {
+
+
+
+
+}
+
+/* ---------- MAX 640PX ---------- */
+@media screen and (max-width:640px) {
+/*image hover responsive*/
+.image-contain .textbox {
+    width:80%;
+    height: 100%;
+	left:88px;
+}
+.image-contain .textbox2 {
+    width:80%;
+    height: 83%;
+    margin-top: 39px;
+	left:88px;
+}
+
+
+}
+
+/* ---------- MAX 600PX ---------- */
+@media screen and (min-width:600px) and (max-width:639px) {
+/*image hover responsive*/
+.image-contain .textbox {
+    width: 50%;
+    height: 100%;
+    left: 150px;
+}
+.image-contain .textbox2 {
+    width: 50%;
+    height: 83%;
+    margin-top: 39px;
+	left: 150px;
+}
+
+
+}
+
+/* ---------- MAX 480PX ---------- */
+@media screen and (max-width:480px) {
+/*image hover responsive*/
+.image-contain .textbox {
+    width:63%;
+    height: 100%;
+	left:88px;
+}
+.image-contain .textbox2 {
+    width:63%;
+    height: 83%;
+    margin-top: 39px;
+	left:88px;
+}
+
+
+
+
+}
+
+/* ---------- MAX 414PX ---------- */
+@media screen and (max-width:414px) {
+/*image hover responsive*/
+.image-contain .textbox {
+    width:73%;
+    height: 100%;
+	left:57px;
+}
+.image-contain .textbox2 {
+        width: 73%;
+    height: 83%;
+    margin-top: 39px;
+    left: 57px;
+}
+
+
+
+
+}
+
+
+/* ---------- MAX 375PX ---------- */
+@media screen and (max-width:375px) {
+/*image hover responsive*/
+.image-contain .textbox {
+    width:80%;
+    height: 100%;
+	left:38px;
+}
+.image-contain .textbox2 {
+    width:80%;
+    height: 83%;
+    margin-top: 39px;
+	left:38px;
+}
+
+}
+
+
+/* ---------- MAX 320PX ---------- */
+@media only screen and (max-width:320px) {
+/*image hover responsive*/
+.image-contain .textbox {
+    width: 90.2%;
+    height: 100%;
+	left:16px;
+}
+.image-contain .textbox2 {
+    width: 90.2%;
+    height: 83%;
+    margin-top: 39px;
+	left:16px;
+}
+
+
+
+
+}

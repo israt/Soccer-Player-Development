@@ -1,0 +1,374 @@
+p,a,h3,h2,h4,h1,h5{font-family: 'Roboto', sans-serif;}
+header{
+	width:100%;
+	margin-bottom:5px;
+	}
+.container{
+	width:1000px;
+	margin:0 auto;
+	}
+.logo{
+	float:left;
+	margin-top:4px;
+	}
+.social-bookmarks{
+	float:right;
+	margin-top:14px;
+	width:200px;
+	}
+.bottom{float:right;}
+.contact{
+	float:right;
+	color:#000;
+	font-size:14px;
+	font-weight:500;
+	margin-left:13px;
+	text-transform:uppercase;
+	
+	}
+.bottom p:last-child{
+	color:#000;
+	font-size:18px;
+	font-weight:500;
+	}
+.bottom i{
+    margin-top: -35px;
+	margin-left: 26px;
+	color:#000;
+	font-weight:400;
+	font-size:18px;
+	}
+.top{
+	margin-bottom:18px;
+    margin-left: 17px;
+	}
+.top p{
+	color:#000;
+	font-size:20px;
+	}
+.main-content{
+	width:100%;
+	background:#fff;
+	margin-bottom: 30px;
+	}
+.top-50{
+	margin-top:50px;
+	}
+.color{
+	 color: #3A3A3C;
+    border-bottom: 2px dotted #79949d;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+    font-weight: 300;
+    font-size: 35px;
+	}
+.right-content-text{
+	margin-bottom:50px;
+	}
+.right-content-text p{
+	margin-bottom:15px;
+	margin-bottom: 15px;
+    line-height: 20px;
+    font-weight: 300;
+	}
+.top-80{
+	margin-top:80px;
+	}
+.top-45{
+	margin-top:45px;
+	}
+.left-content-bottom h3{
+	color:#E82126;
+	font-size:15px;
+	text-transform:uppercase;
+	font-weight:500;
+	margin-bottom:2px;
+	}
+.left-content-bottom ul li{
+	color:#686868;
+	font-family: 'Roboto', sans-serif;
+	font-size:12px;
+	padding: 8px 0px 8px 0px;
+	}
+
+footer{
+	  width: 100%;
+      float:left;
+	  border-top:1px solid #B7B7B7;
+	  margin-top:25px;
+	  }
+.clr{
+	color:#E82126;
+	font-size:18px;
+	padding-top: 45px;
+    padding-bottom: 15px;
+	border-bottom:1px solid #E82126;
+	text-transform:uppercase;
+	}
+.padding{
+	color:#E82126;
+	font-size:18px;
+	padding-top:22px;
+	padding-bottom: 5px;
+	padding-left:185px;
+	border-bottom:1px solid #E82126;
+	}
+.margin{
+	padding-bottom:8px;
+	}
+
+.shadow{}
+
+footer p{
+	text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #3A3A3C;
+    font-weight: 300;
+	}
+.copy p a{
+	color:#ffffff;}
+.copy p a:hover{
+	color:#E82126;
+	}
+/*image hover effect*/
+.image-contain {
+position:relative;
+cursor:pointer;
+text-align: center;
+}
+.image-contain .textbox {
+width: 294px;
+height: 197px;
+position:absolute;
+top:0;
+left:15px;
+-webkit-transform: scale(0);
+transform: scale(0);
+background-color: rgba(0,0,0,0.75);
+}
+.image-contain:hover .textbox {
+-webkit-transform: scale(1);
+transform: scale(1);
+}
+.text {
+padding-top:67px;
+text-align:center;
+color:#fff;
+font-size:22px;
+}
+.textbox a{
+	color:#ABAAAA;
+	padding-top: 80px;
+    padding-left:9px;
+	font-size:20px;
+	cursor:pointer;
+	font-weight:300;
+	}
+.textbox a:hover{
+	color:#fff ;}
+.textbox {
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+cursor:pointer;
+}
+.bottom{
+	margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 20px;
+	}
+
+.top-25 {
+    margin-top: 25px;
+}
+.inner{
+	min-height:300px;
+}
+/*inner page (coach).................................................*/
+.about-coach h3{
+	font-size: 22px;
+	margin-top:88px;
+    float: left;
+	width: 50%;
+	}
+.about-coach img{
+	float:left;
+	margin-right: 60px;
+	border: 1px solid #E4E4E4;
+    padding: 5px;
+	}
+.about-coach ul{
+	float:left;
+	}
+.soccer-career{
+	width:100%;
+	float:left;
+	height:auto;
+	margin-top: 25px;
+	}
+.soccer-career h2{
+	font-size:25px;
+	}
+.soccer-career ul{
+    padding-right: 20px;
+	padding-left: 20px;
+	}
+.soccer-career ul li {
+	list-style:square;
+	font-size:15px;
+	line-height:30px;
+	}
+.img-right{
+	float: right;
+	margin-left:20px;
+    border: 1px solid #E4E4E4;
+    padding: 5px;
+	}
+.img-left{
+	float: left;
+	margin-right:20px;
+    border: 1px solid #E4E4E4;
+    padding: 5px;
+	}	
+.coaches-details{
+	width:100%;
+	float:left;
+	height:auto;
+	text-align:justify;
+	}
+.coaches-details p{
+	margin-top:25px;}
+.start{
+	font-weight: bold;
+    font-size: 30px;
+    padding-right: 5px;
+	}
+/*inner page (training)............................................................*/
+.training-center{
+	width:100%;
+	float:left;
+	height:auto;
+	}
+.training-center h3{
+	text-align:center;}
+.training-center p{
+	text-align:center;}
+/*inner page (testimonials)............................................................*/
+.single-testimonial{
+	width:100%;
+	float:left;
+	margin-bottom:35px;}
+.testimonials p{
+	width: 100%;
+    float: left;
+    padding: 20px;
+    line-height: 20px;
+    text-align: justify;
+	}
+i.fa fa-quote-left{
+	font-size: 20px;
+    float: left;
+    width: 100%;
+	}
+i.fa-quote-right{
+	font-size: 20px;
+    float: right;
+	}
+.testi-author p{
+	padding-left:22px;
+	}
+.testi-image{
+	width:100%;
+	float:left;
+	}
+.testi-image img{
+	width:100%;
+	margin-top: 40px;
+    border: 1px solid #E4E4E4;
+    padding: 5px;
+	}
+.testi-image p{
+	text-align: center;
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #545252;
+	}
+/*inner page (contact).............................*/
+.contact{width:100%;}
+.contact-list{
+	margin-top:20px;
+	margin-bottom:20px;
+	}
+.contact-list h3{
+	  color:#e82126;
+	  text-transform:capitalize; 
+	  font-size:24px;
+	  font-weight:400; 
+      }
+.contact-form h3{
+	  color:#e82126;
+	  text-transform:capitalize;
+	  font-size:24px; 
+	  font-weight:400;
+     }
+.contact-list h6{
+	font-size:18px;
+	color:#424242;
+	font-weight: 400;
+	}
+.contact-list ul li{
+	color:#424242;
+	font-size:16px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+	}
+.contact-form { 
+	margin-top:20px;
+	margin-bottom:60px;
+	}
+.contact-form input[type="text"]{ 
+   color:#fff;/*
+   border:1px solid #dcdcdc;*/
+   margin-bottom:15px;
+   }
+textarea{ 
+   border:1px solid #dcdcdc;
+   }
+  .latest-btn{
+	background:#5F5D5D;
+	color:#fff;
+	font-size:14px;
+	font-weight:400;
+    width:100px;
+	height:30px;
+	border:1px solid #000;
+	border-radius:none;
+	padding:5px 10px;
+	-webkit-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+	}
+.latest-btn:hover{
+	color:#5F5D5D;
+	background:#fff;
+	border:1px solid #5F5D5D;
+	}
+.img-contact img{
+	margin-bottom:3px;
+}
+/*banner styles...............................................
+...............................*/
+section.main-banner{
+	width:100%;
+	float:left;
+	height:370px;
+	}
+.banner{
+	width:100%;
+	foat:left;
+	height:370px;
+	margin-top:10px;
+	}
